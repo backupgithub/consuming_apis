@@ -3,8 +3,9 @@
 ---
 title: Getting Started with OAuth
 length: 120
-tags: rails, security, authentication, OAuth
 ---
+
+###tags: rails, security, authentication, OAuth
 
 > Authentication is a ubiquitous problem in web applications. So
 ubiquitous, in fact, that we might be inclined to think of ways
