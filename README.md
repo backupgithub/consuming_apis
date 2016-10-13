@@ -2,7 +2,6 @@
 
 ---
 title: Getting Started with OAuth
-length: 120
 ---
 
 ###tags: rails, security, authentication, OAuth
